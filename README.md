@@ -50,7 +50,3 @@ This repository contains Jupyter Notebooks showcasing hands-on experience with m
     ```
 
 3. Open and run the Jupyter Notebooks to explore the datasets and execute machine learning tasks.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
