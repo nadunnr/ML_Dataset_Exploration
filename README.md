@@ -32,7 +32,6 @@ This repository contains Jupyter Notebooks showcasing hands-on experience with m
 - NumPy
 - Pandas
 - Matplotlib
-- Seaborn
 - Scikit-learn
 
 ## Usage
