@@ -41,17 +41,17 @@ This repository contains Jupyter Notebooks showcasing hands-on experience with m
     ```bash
     git clone https://github.com/nadunnr/Dataset_Exploration_ML-Models.git
     ```
-
-2. Install the dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
     
-3. Go to the directory:
+2. Go to the directory:
 
     ```bash
     cd Dataset_Exploration_ML-Models
+    ```
+    
+3. Install the dependencies:
+
+    ```bash
+    pip install -r requirements.txt
     ```
 
 4. Open and run the Jupyter Notebooks to explore the datasets and execute machine learning tasks.
