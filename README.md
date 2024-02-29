@@ -48,5 +48,15 @@ This repository contains Jupyter Notebooks showcasing hands-on experience with m
     ```bash
     pip install -r requirements.txt
     ```
+    
+3. Go to the directory:
 
-3. Open and run the Jupyter Notebooks to explore the datasets and execute machine learning tasks.
+    ```bash
+    cd Dataset_Exploration_ML-Models
+    ```
+
+4. Open and run the Jupyter Notebooks to explore the datasets and execute machine learning tasks.
+
+    ```bash
+    cd Dataset_Exploration_ML-Models
+    ```
