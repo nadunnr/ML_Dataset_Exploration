@@ -57,5 +57,5 @@ This repository contains Jupyter Notebooks showcasing hands-on experience with m
 4. Open and run the Jupyter Notebooks to explore the datasets and execute machine learning tasks.
 
     ```bash
-    cd Dataset_Exploration_ML-Models
+    jupyter notebook
     ```
