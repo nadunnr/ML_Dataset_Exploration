@@ -21,9 +21,11 @@ This repository contains Jupyter Notebooks showcasing hands-on experience with m
 
 ## Notebooks
 
-1. **Boston_Housing_Analysis.ipynb**: Analysis and regression on the Boston Housing dataset.
-2. **Iris_Classification.ipynb**: Classification of the three iris species using the Iris dataset.
-3. **Breast_Cancer_Classification.ipynb**: Classification of breast masses as benign or malignant using the Breast Cancer dataset.
+- **Boston_Housing_Analysis.ipynb:** Explore the Boston Housing dataset, perform EDA, and build a regression model to predict house prices.
+- **Iris_Classification.ipynb:** Analyze the Iris dataset, visualize data, train a classification model to distinguish between the three iris species.
+- **Breast_Cancer_Classification.ipynb:** Investigate the Breast Cancer dataset, apply EDA, and create a classification model to classify breast masses.
+- **wine_quality_dataset.ipynb:** Experiment with PyTorch, use the Wine Quality dataset to build a regression model for predicting wine quality.
+- **torch_vision_on_FashionMNIST.ipynb:** Employ PyTorch for computer vision, train a CNN model on the Fashion-MNIST dataset to classify clothing types.
 
 ## Dependencies
 
